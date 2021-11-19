@@ -1,0 +1,10 @@
+[
+  {
+    "alert": "This is JSON",
+    "name": "Mousse",
+    "email": "mousse@gmail.com",
+    "favoriteFood": "Cat food",
+    "favoriteColor": "blue",
+    "hobbies": ["sleeping", "doing cat things"]
+  }
+]
